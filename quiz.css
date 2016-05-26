@@ -25,7 +25,12 @@ h3 {
 
 
 
+
 /**** Class Selectors ****/
+
+.cards {
+	text-align: center;
+}
 
 .description {
 	text-align: justify;
@@ -59,6 +64,7 @@ h3 {
 .price {
 	margin: -5px 0px 4px 0px;
 }
+
 
 
 
